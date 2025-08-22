@@ -34,13 +34,8 @@ export const constantRouterMap = [
     },
     {
       name: 'document',
-      path: 'https://www.macrozheng.com',
-      meta: {title: '学习教程', icon: 'document'}
-    },
-    {
-      name: 'video',
-      path: 'https://www.macrozheng.com/mall/foreword/mall_video.html',
-      meta: {title: '视频教程', icon: 'video'}
+      path: 'https://www.rbkjpro.com',
+      meta: {title: '链接官网', icon: 'document'}
     },
     ]
   }
